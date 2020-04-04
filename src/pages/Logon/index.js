@@ -26,7 +26,7 @@ export default function Logon() {
             
         }
         catch {
-            alert('Falha no login, tente novamente')
+            alert('Falha no login, tente novamente.')
         }
     }
 
